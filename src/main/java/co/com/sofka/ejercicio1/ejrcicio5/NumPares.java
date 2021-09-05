@@ -1,7 +1,7 @@
 package co.com.sofka.ejercicio1.ejrcicio5;
 
 public class NumPares {
-    private int counter;
+    protected int counter;
 
     public NumPares() {
         this.counter = 1;
@@ -15,7 +15,6 @@ public class NumPares {
             while (counter <= 100) {
                 if ((counter % 2) == 0) {
                     System.out.print(counter + " ");
-
                 }
                 counter++;
             }
