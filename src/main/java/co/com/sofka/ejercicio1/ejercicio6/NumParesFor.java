@@ -1,6 +1,6 @@
 package co.com.sofka.ejercicio1.ejercicio6;
 
-import co.com.sofka.ejercicio1.ejrcicio5.NumPares;
+import co.com.sofka.ejercicio1.ejercicio5.NumPares;
 
 public final class NumParesFor extends NumPares {
     public NumParesFor() {

@@ -1,4 +1,4 @@
-package co.com.sofka.ejercicio1.ejrcicio5;
+package co.com.sofka.ejercicio1.ejercicio5;
 
 public class NumPares {
     protected int counter;
