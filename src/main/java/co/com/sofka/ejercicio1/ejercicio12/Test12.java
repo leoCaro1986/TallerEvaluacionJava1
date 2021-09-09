@@ -1,6 +1,4 @@
-package co.com.sofka.ejercicio1.ejrcicio12;
-
-import java.util.Scanner;
+package co.com.sofka.ejercicio1.ejercicio12;
 
 public class Test12 {
     public static void main(String[] args) {

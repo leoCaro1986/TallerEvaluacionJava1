@@ -1,4 +1,4 @@
-package co.com.sofka.ejercicio1.ejrcicio12;
+package co.com.sofka.ejercicio1.ejercicio12;
 
 //Pedir dos palabras por teclado, indicar si son iguales, sino son iguales mostrar sus diferencias.
 
