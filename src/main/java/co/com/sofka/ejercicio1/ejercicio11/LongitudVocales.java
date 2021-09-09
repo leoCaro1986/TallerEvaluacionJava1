@@ -23,8 +23,7 @@ public class LongitudVocales {
 
     public void contarCaracteres(){
         this.contarVocales = contarVocales;
-        //for(int x=0;x<fraseIngresada.length();x++) {
-        //}
+
         for(int x=0;x<fraseIngresada.length();x++) {
             if ((fraseIngresada.charAt(x)=='a') || (fraseIngresada.charAt(x)=='e') || (fraseIngresada.charAt(x)=='i')
                     || (fraseIngresada.charAt(x)=='o') || (fraseIngresada.charAt(x)=='u')){
