@@ -18,10 +18,13 @@ public class NumerosMayor1000 {
         this.numeroIngresado = numeroIngresado;
     }
     public  void convertirNumero(){
-        this.numeroIngresado =numeroIngresado;
-        for (int i=numeroIngresado;i<=1000;i++){
-            System.out.println(i);
-        }
+        if (numeroIngresado >= 1000){
+            this.numeroIngresado =numeroIngresado;
+            for (int i=numeroIngresado;i<=1000;i++){
+                System.out.println(i);
+            }
+        }else System.out.println("El nímero ingresado debe ser inferior a 1000");
+
     }
 }
 
