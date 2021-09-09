@@ -20,3 +20,17 @@ j
 :src/main/java/co/com/sofka/ejercicio1/ejercicio3/Test.java,1\1\117b6f3c98a83701d61933c932aa46f73ffbff56
 q
 Asrc/main/java/co/com/sofka/ejercicio1/ejercicio3/AreaCirculo.java,3\6\36dd6a301c2a5f131e7308b57311918ed3dda1e0
+e
+5src/main/java/co/com/sofka/ejercicio1/Ejercicio2.java,5\8\58fb3ec7041a23c079a2353093abc3daeb6bca00
+G
+src/main/java/Test.java,b\6\b660a5f333c00ef78dec1d85c727eb000157c1f3
+e
+5src/main/java/co/com/sofka/ejercicio1/Ejercicio1.java,1\9\19efa0ef4192546803b47f1cf13c5d79816e84cf
+k
+;src/main/java/co/com/sofka/ejercicio1/ejercicio7/Test7.java,1\b\1b305a7b0d8d38853fe2fd5896bbf56d36a084c3
+x
+Hsrc/main/java/co/com/sofka/ejercicio1/ejercicio7/NumeroMayorDoWhile.java,a\1\a1a1c4bb583d39b116fb40d08cfc0c5d1c076aef
+k
+;src/main/java/co/com/sofka/ejercicio1/ejercicio8/test8.java,d\d\dd00dabff5cd109646700736106f8243b56a0c3b
+q
+Asrc/main/java/co/com/sofka/ejercicio1/ejercicio8/DiaDeSemana.java,e\1\e16019bddc18e334c775e115d0131c8a8bb6cb88
