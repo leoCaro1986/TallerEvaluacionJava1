@@ -9,18 +9,18 @@ import java.util.Scanner;
 public class Test7 {
     public static void main(String[] args) {
         double numeroMayor;
-        Scanner sc =new Scanner(System.in);
+        Scanner scanner =new Scanner(System.in);
 
         NumeroMayorDoWhile numero = new NumeroMayorDoWhile();
 
         do{
             System.out.println("Por favor digite un número: ");
-            numeroMayor = sc.nextDouble();
+            numeroMayor = scanner.nextDouble();
             numero.setNumero(numeroMayor);
             if (!numero.comparador()) System.out.println("Número invalido por favor ingrese un número igual o mayor a 0");
 
         }while (!(numero.comparador()));
         System.out.println("Su número es: "+ numero.getNumero());
-        sc.close();
+        scanner.close();
     }
 }
